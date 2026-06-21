@@ -21,10 +21,10 @@ https://colab.research.google.com/drive/1StASA_G4IzDWUY9UHGe90NbXzGxYINrf?usp=dr
 https://colab.research.google.com/drive/1VV4GYi9NKc178jK3WbmnUzF5qs8Qh9QF?usp=drive_link
 
 
- ## 🛠️ Tools & Pustaka yang Digunakan
+ ## Tools & Pustaka yang Digunakan
 * **Python:** 
 * **Pandas:** 
 * **NumPy:**
 * **scikit-learn:**
 * **Matplotlib:**
-* **Seaborn:** Pembuatan grafik statistik yang interaktif, rapi, dan menarik.
+* **Seaborn:**
